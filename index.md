@@ -1,35 +1,9 @@
 ## Welcome to my archive
 
-Nothing to report as of today.
+### Artist Bio
 
-### Markdown
+Patricia Melton received a Bachelor of Fine Arts in Studio Art, with a concentration in Digital and Experimental Media from Kansas State University. She was born in Juneau, Alaska and currently resides in New Mexico. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Patricia creates artworks that exist in the intersection between art and science. Computer coding and processing are incorporated with video, still image, and sound to create interactive interfaces. The computational value that can be gleaned from sensor data allows an experience tailored to the viewer in real time. Her subject matter explores the foundation of relationships between human and nature or human and body and exists to identify methods to stimulate relationship building.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-/***Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meltonpat/meltonpat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.*/
